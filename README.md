@@ -1,4 +1,4 @@
-<h1 align="center">Machinekit-HAL</h1>
+<h1 align="center">Machinekit-HAL from Lanovka</h1>
 
 <div align="center"><img alt="Machinekit demo" src="media/machinekit-hal.svg" width="450px" /></div>
 
